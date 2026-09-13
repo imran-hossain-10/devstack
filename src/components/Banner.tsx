@@ -16,11 +16,11 @@ const Banner = () => {
             </span>
           </h1>
 
-          {/* <p className="mt-5 max-w-xl text-gray-500 leading-7">
+          <p className="mt-5 max-w-xl text-gray-500 leading-7">
             Explore frontend, backend, database, and tooling options,
             compare them side by side, and put together the stack that fits your 
             next project.
-          </p> */}
+          </p>
 
           {/* Buttons */}
           <div className="mt-8 flex flex-col sm:flex-row gap-3">
